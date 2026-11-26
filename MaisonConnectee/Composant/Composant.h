@@ -1,7 +1,7 @@
 #ifndef COMPOSANT_H
 #define COMPOSANT_H
 
-#include <Arduino.h>
+//#include <Arduino.h>
 
 class Composant
 {
